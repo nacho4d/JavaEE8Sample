@@ -2,7 +2,7 @@
 
 Based on:
 1. First lessons Packt Publishing '["Create and Deploy Java EE 8 Apps on Docker and Kubernetes"](https://www.udemy.com/create-and-deploy-java-ee-8-apps-on-docker-and-kubernetes/)
-3. OpenLiberty's [Getting started Guide](ttps://openliberty.io/guides/getting-started.html)
+3. OpenLiberty's [Getting started Guide](https://openliberty.io/guides/getting-started.html)
 3. Mr. Pavel Pscheidl's explanation [OpenLiberty.io: Simple guide](https://www.pavel.cool/javaee/ee4j/openliberty-jaxrs/)
 
 Running:
