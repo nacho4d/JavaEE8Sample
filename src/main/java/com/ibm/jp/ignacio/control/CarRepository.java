@@ -11,6 +11,8 @@ public class CarRepository {
     }
 
     public List<Car> loadCars() {
-        return new ArrayList<>();
+        List cars = new ArrayList<>();
+        cars.add(new Car());
+        return cars;
     }
 }
